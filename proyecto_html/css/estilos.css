@@ -1,0 +1,24 @@
+BODY {color:green ;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;}
+
+P {color:red; 
+   font-size:20px;
+   font-family:Courier;
+   font-weight:bold;
+   font-style:italic;
+   line-height:30px;
+   letter-spacing:5px;
+   text-decoration:underline;
+   text-transform:capitalize;
+   text-align:left;
+   text-indent:30px;
+  }
+
+#cabecera
+{
+   background-color: aqua;
+   align-content: center;
+   text-align: center;
+}
+
