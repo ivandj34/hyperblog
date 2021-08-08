@@ -1,3 +1,7 @@
 Hola mundo :B
+<<<<<<< HEAD
 ahora realice un commit con html, css y una carpeta nueva.
  ahora realice otro cambio
+=======
+primer cambio despues de varios cambios 
+>>>>>>> cabecera
