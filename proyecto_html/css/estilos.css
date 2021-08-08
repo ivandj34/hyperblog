@@ -12,3 +12,11 @@ P {color:red;
    text-align:left;
    text-indent:30px;
   }
+
+#cabecera
+{
+   background-color: aqua;
+   align-content: center;
+   text-align: center;
+}
+
